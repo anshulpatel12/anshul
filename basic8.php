@@ -8,4 +8,5 @@ echo "<br>";
 echo 'Host:' . $url['host'];
 echo "<br>";
 echo 'Path:' . $url['path'];
+echo "anshul";
 ?>
